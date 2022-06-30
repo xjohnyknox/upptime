@@ -40,19 +40,19 @@
     "url": "http://xjohnyx.me/",
     "icon": "https://favicons.githubusercontent.com/xjohnyx.me",
     "slug": "xjohnyx",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "89.13%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 170,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "88.53%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 169,
     "timeDay": 131,
-    "timeWeek": 154,
-    "timeMonth": 170,
-    "timeYear": 170,
+    "timeWeek": 153,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {
-      "2022-06-30": 156
+      "2022-06-30": 165
     }
   }
 ]
