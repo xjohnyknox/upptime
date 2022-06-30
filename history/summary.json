@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 514,
-    "timeDay": 989,
-    "timeWeek": 614,
-    "timeMonth": 514,
-    "timeYear": 514,
+    "time": 508,
+    "timeDay": 322,
+    "timeWeek": 586,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2593,
-    "timeDay": 2959,
-    "timeWeek": 2710,
-    "timeMonth": 2593,
-    "timeYear": 2593,
+    "time": 2582,
+    "timeDay": 2252,
+    "timeWeek": 2673,
+    "timeMonth": 2582,
+    "timeYear": 2582,
     "dailyMinutesDown": {}
   },
   {
@@ -40,17 +40,19 @@
     "url": "http://xjohnyx.me/",
     "icon": "https://favicons.githubusercontent.com/xjohnyx.me",
     "slug": "xjohnyx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 182,
-    "timeWeek": 184,
-    "timeMonth": 181,
-    "timeYear": 181,
-    "dailyMinutesDown": {}
+    "time": 176,
+    "timeDay": 109,
+    "timeWeek": 165,
+    "timeMonth": 176,
+    "timeYear": 176,
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   }
 ]
